@@ -2,32 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0d0eb1f-65d9-444a-9501-a68840a40c9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/libraries/Leiningen__nrepl_0_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/clojure-colections.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/doc/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/project.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/src/clojure_colections/aula1.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/src/clojure_colections/aula2.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/src/clojure_colections/core.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clojure-colections/test/clojure_colections/core_test.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clojure-colections.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clojure_collections/aula1.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/clojure_collections/aula1.clj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/clojure_collections/aula2.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/clojure_collections/aula2.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,17 +28,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "cursive.last.file.extension./Users/victor.pereira/Documents/projects/learning-clojure/clojure-collections/src": "clj",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;cursive.last.file.extension./Users/victor.pereira/Documents/projects/learning-clojure/clojure-collections/src&quot;: &quot;clj&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="ReplState" timestamp="1667328082979">{:repl-history {:ide [], :local [], :remote []}}</component>
+}</component>
+  <component name="ReplState" timestamp="1667328388161">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
